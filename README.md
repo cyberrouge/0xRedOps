@@ -1,5 +1,7 @@
 Hacking-Resources
-This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources.
+This repository contains some resources for ethical hackers penetration tester 😊 
+This may contain some files, tools, books, and links that need to be used for good purposes only.
+ Do not do any illegal work using these sources.
 
 This is only for keeping some resources and topics in one-place to access easily.
 
